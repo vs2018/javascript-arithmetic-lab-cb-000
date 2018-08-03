@@ -18,6 +18,6 @@ function inc(n) {
   return n + 2
 }
 
-function inc(n) {
+function dec(n) {
   return n - 1
 }
