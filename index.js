@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  parseFloat(n, 10)
+  parseFloat(n)
 }
